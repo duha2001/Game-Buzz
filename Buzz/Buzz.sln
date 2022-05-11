@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buzz", "Buzz.csproj", "{AD1BDBBB-0246-A1E0-E993-9C11A4BDAAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1BDBBB-0246-A1E0-E993-9C11A4BDAAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1BDBBB-0246-A1E0-E993-9C11A4BDAAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1BDBBB-0246-A1E0-E993-9C11A4BDAAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1BDBBB-0246-A1E0-E993-9C11A4BDAAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
